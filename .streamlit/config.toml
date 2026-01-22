@@ -1,0 +1,12 @@
+[client]
+toolbarMode = "minimal"
+
+[logger]
+level = "info"
+
+[theme]
+primaryColor = "#3b82f6"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#e2e8f0"
+textColor = "#1e293b"
+font = "sans serif"
